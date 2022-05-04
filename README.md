@@ -1,3 +1,3 @@
-# Web scraping GoogleNews
+# Web scraping Google News
 
-In thir project I use Python's PyGoogleNews package to scarpe Google News. The repository contains the code and sample output file. 
+In thir project I use Python's PyGoogleNews package to scrape Google News feed. The repository contains the Python code and sample output file. 
